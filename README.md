@@ -12,7 +12,8 @@ Role Variables
 --------------
 
 `lighthouse_source_url` - URL to source git repo of lighthouse
- `lighthouse_dir` - instalation directory of lighthouse (NGINX/Apache web source directory)
+
+`lighthouse_dir` - instalation directory of lighthouse (NGINX/Apache web source directory)
 
 Example Playbook
 ----------------
